@@ -1,13 +1,12 @@
-
 body {
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(to bottom, #04962b, #7ceba8, #dfe6e9);
+  background: linear-gradient(to bottom, #2381e0, #1749ee, #dfe6e9);
   transition: background 0.5s ease-in-out;
 }
 
 
 .navbar {
-  background-color: #10603d;
+  background-color: #047d9e;
 }
 
 .jumbotron {
